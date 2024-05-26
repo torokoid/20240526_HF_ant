@@ -70,9 +70,9 @@ body::before {
 
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h3><span class="white">初代手作りバランは完全にご臨終！</span></h3>
+<h3><span class="blue">初代手作りバランは完全にご臨終！</span></h3>
 <a href="20240526_001.JPG" data-lightbox="abc"><img src="20240526_001.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">まずはケースの製作から取り掛かります！</span></h3>
+<h3><span class="blue">まずはケースの製作から取り掛かります！</span></h3>
 <a href="20240526_002.JPG" data-lightbox="abc"><img src="20240526_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240526_003.JPG" data-lightbox="abc"><img src="20240526_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240526_004.JPG" data-lightbox="abc"><img src="20240526_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -81,16 +81,16 @@ body::before {
 <a href="20240526_007.JPG" data-lightbox="abc"><img src="20240526_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240526_008.JPG" data-lightbox="abc"><img src="20240526_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240526_009.JPG" data-lightbox="abc"><img src="20240526_009.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">バランはなんとか完成！</span></h3>
+<h3><span class="blue">バランはなんとか完成！</span></h3>
 <a href="20240526_010.JPG" data-lightbox="abc"><img src="20240526_010.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">庭にワイヤーを貼るための青竹を調達<br>これが一番大変でした！</span></h3>
+<h3><span class="blue">庭にワイヤーを貼るための青竹を調達<br>これが一番大変でした！</span></h3>
 <a href="20240526_011.JPG" data-lightbox="abc"><img src="20240526_011.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">トロイダルコアがばたつかないように、ヤクルトのケースをスペーサーに！<br>これSWR上げてないか心配。</span></h3>
+<h3><span class="blue">トロイダルコアがばたつかないように、ヤクルトのケースをスペーサーに！<br>これSWR上げてないか心配。</span></h3>
 <a href="20240526_012.JPG" data-lightbox="abc"><img src="20240526_012.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">聳え立つ青竹・・・これが娘の逆鱗に触れてます！</span></h3>
+<h3><span class="blue">聳え立つ青竹・・・これが娘の逆鱗に触れてます！</span></h3>
 <a href="20240526_013.JPG" data-lightbox="abc"><img src="20240526_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240526_014.JPG" data-lightbox="abc"><img src="20240526_014.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">バランをこんなところに密着させてます！<br>これもSWR上げる一因かも・・・</span></h3>
+<h3><span class="blue">バランをこんなところに密着させてます！<br>これもSWR上げる一因かも・・・</span></h3>
 <a href="20240526_015.JPG" data-lightbox="abc"><img src="20240526_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240526_016.JPG" data-lightbox="abc"><img src="20240526_016.JPG" alt="サンプル画像" width="900" /></a>
 
