@@ -66,10 +66,27 @@ body::before {
 <p align="left"> <img src="ant.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月26日(日)壊れていたアマチュア無線の短波帯(HF)アンテナを修理 !!!</marquee></span></h1>
-
-	
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月27日(月)日曜に上げたアンテナ、あまりにも性能が悪いのでバランの位置を修正 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h3><span class="blue">バランを移動するために、竹竿の先端に再セット！</span></h3>
+<a href="20240527_001.JPG" data-lightbox="abc"><img src="20240527_001.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">そのまま立ち上げて、電波の腹がフレ回れるようにしました！</span></h3>
+<a href="20240527_002.JPG" data-lightbox="abc"><img src="20240527_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240527_003.JPG" data-lightbox="abc"><img src="20240527_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240527_004.JPG" data-lightbox="abc"><img src="20240527_004.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">ダイポールのくせに、くの字に折れてます！</span></h3>
+<a href="20240527_005.JPG" data-lightbox="abc"><img src="20240527_005.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">バランの位置は教科書並みに、自由空間？！</span></h3>
+<a href="20240527_006.JPG" data-lightbox="abc"><img src="20240527_006.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">100Wのあ〜と言う入力でも、無線機のSWR計では、1.2程度で収まりました！</span></h3>
+<a href="20240527_007.JPG" data-lightbox="abc"><img src="20240527_007.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">地上こうは低くて、ベランダから見下ろせる位置！</span></h3>
+<a href="20240527_008.JPG" data-lightbox="abc"><img src="20240527_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240527_009.JPG" data-lightbox="abc"><img src="20240527_009.JPG" alt="サンプル画像" width="900" /></a>
+ 
+<br><br><br>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月26日(日)壊れていたアマチュア無線の短波帯(HF)アンテナを修理 !!!</marquee></span></h1>
 <h3><span class="blue">初代手作りバランは完全にご臨終！</span></h3>
 <a href="20240526_001.JPG" data-lightbox="abc"><img src="20240526_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="blue">まずはケースの製作から取り掛かります！</span></h3>
