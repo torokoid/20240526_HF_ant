@@ -66,7 +66,7 @@ body::before {
 <p align="left"> <img src="ant.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月27日(月)日曜に上げたアンテナ、あまりにも性能が悪いのでバランの位置を修正 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月27日(月)、日曜に上げたアンテナがあまりにも性能が悪いのでバランの位置を修正 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="blue">バランを移動するために、竹竿の先端に再セット！</span></h3>
