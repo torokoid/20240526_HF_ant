@@ -77,11 +77,11 @@ body::before {
 <a href="20240527_004.JPG" data-lightbox="abc"><img src="20240527_004.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="blue">ダイポールのくせに、くの字に折れてます！</span></h3>
 <a href="20240527_005.JPG" data-lightbox="abc"><img src="20240527_005.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="blue">バランの位置は教科書並みに、自由空間？！</span></h3>
+<h3><span class="blue">バランの位置は教科書並みに、自由空間か？！</span></h3>
 <a href="20240527_006.JPG" data-lightbox="abc"><img src="20240527_006.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="blue">100Wのあ〜と言う入力でも、無線機のSWR計では、1.2程度で収まりました！</span></h3>
+<h3><span class="blue">100Wの「あ〜」と言う入力でも、無線機のSWR計では、1.2程度で収まりました！</span></h3>
 <a href="20240527_007.JPG" data-lightbox="abc"><img src="20240527_007.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="blue">地上こうは低くて、ベランダから見下ろせる位置！</span></h3>
+<h3><span class="blue">地上高は低くて、ベランダから見下ろせる位置！</span></h3>
 <a href="20240527_008.JPG" data-lightbox="abc"><img src="20240527_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240527_009.JPG" data-lightbox="abc"><img src="20240527_009.JPG" alt="サンプル画像" width="900" /></a>
  
