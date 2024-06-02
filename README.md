@@ -66,9 +66,17 @@ body::before {
 <p align="left"> <img src="ant.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月27日(月)、日曜に上げたアンテナがあまりにも性能が悪いのでバランの位置を修正 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年6月2日(日)、庭の端に聳え立つ竹竿があまりに目立ち過ぎ、妻と娘の猛攻撃であえなく撤収 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h3><span class="blue">竹竿は撤収後に短く切り刻まれて、花壇用の治具に変身！<br>
+わずか１週間の寿命でしたが、１エリアと２エリアの局とは５９で交信できています。</span></h3>
+<a href="20240602_001.JPG" data-lightbox="abc"><img src="20240602_001.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">うちのわんこも、竹竿を見送ってニッコリ！</span></h3>
+<a href="20240602_002.JPG" data-lightbox="abc"><img src="20240602_002.JPG" alt="サンプル画像" width="900" /></a>
 
+
+<br><br><br><br><br><br><br><br><br>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月27日(月)、日曜に上げたアンテナがあまりにも性能が悪いのでバランの位置を修正 !!!</marquee></span></h1>
 <h3><span class="blue">バランを移動するために、竹竿の先端に再セット！</span></h3>
 <a href="20240527_001.JPG" data-lightbox="abc"><img src="20240527_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="blue">そのまま立ち上げて、電波の腹がフレ回れるようにしました！</span></h3>
@@ -85,7 +93,7 @@ body::before {
 <a href="20240527_008.JPG" data-lightbox="abc"><img src="20240527_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240527_009.JPG" data-lightbox="abc"><img src="20240527_009.JPG" alt="サンプル画像" width="900" /></a>
  
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="left">!!! 2024年5月26日(日)壊れていたアマチュア無線の短波帯(HF)アンテナを修理 !!!</marquee></span></h1>
 <h3><span class="blue">初代手作りバランは完全にご臨終！</span></h3>
 <a href="20240526_001.JPG" data-lightbox="abc"><img src="20240526_001.JPG" alt="サンプル画像" width="900" /></a>
