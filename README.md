@@ -73,7 +73,7 @@ body::before {
 <a href="20240602_001.JPG" data-lightbox="abc"><img src="20240602_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="blue">うちのわんこも、竹竿を見送ってニッコリ！</span></h3>
 <a href="20240602_002.JPG" data-lightbox="abc"><img src="20240602_002.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="blue">このバランが運用中に熱を持ってから、交信が不安定になる傾向でした。<br>
+<h3><span class="blue">このバランが運用中に熱を持つと、交信が不安定になる傾向でした。<br>
 使用したパーツが小ぶりすぎて100Wの仕様になってなかったかも？</span></h3>
 <a href="20240602_003.JPG" data-lightbox="abc"><img src="20240602_003.JPG" alt="サンプル画像" width="900" /></a>
 
