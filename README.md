@@ -76,6 +76,9 @@ body::before {
 <h3><span class="blue">このバランが運用中に熱を持つと、交信が不安定になる傾向でした。<br>
 使用したパーツが小ぶりすぎて100Wの仕様になってなかったかも？</span></h3>
 <a href="20240602_003.JPG" data-lightbox="abc"><img src="20240602_003.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">ちなみに、ちょっとググると不調になる原因が色々出てきますね！</span></h3>
+<a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14106587454" data-lightbox="abc">Yahoo知恵袋の記事リンク</a>
+
 
 <br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="left">!!! 2024年5月27日(月)、日曜に上げたアンテナがあまりにも性能が悪いのでバランの位置を修正 !!!</marquee></span></h1>
